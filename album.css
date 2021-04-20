@@ -20,7 +20,7 @@ body {
   }
 }
 .navbar {
-  background-color: #659DBD !important; // COLOR NOT WORKING
+  background-color: #659DBD !important;
 }
 
 .jumbotron p:last-child {
